@@ -81,12 +81,17 @@ body{
 
 /*main styling*/
 
-#main{
-    margin-top: 119px;
-    background: url('images/map-blur.png');
-    background-repeat: repeat-y;
 
+#main {
+margin-top: 119px;
+background: url('images/map-blur.png');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
 }
+
+
+
 
 #content{
 padding-top: 1px;
